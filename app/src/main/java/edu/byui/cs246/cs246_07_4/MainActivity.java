@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         // This is a comment
         // This is a comment, too.
         // merge this
+        // BRAD'S MERGE COMMENT
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
